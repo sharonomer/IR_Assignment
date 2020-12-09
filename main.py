@@ -72,3 +72,4 @@ for file in files:
                 termsDict.get(term).append(sentence)
 
 print("Total runtime:\t"+str(datetime.now() - startTime))
+print("testing")
