@@ -1,0 +1,45 @@
+<p>US President Barack Obama has vetoed <a href="http://www.aljazeera.com/news/2016/05/senate-adopts-bill-opposed-saudi-arabia-160517192222851.html">a bill</a> that would have allowed the families of the victims of the September 11, 2001, attacks to sue the government of Saudi Arabia.</p>
+<p>In a statement accompanying his veto message, Obama said on Friday he had &#x201C;deep sympathy&#x201D; for the 9/11 victims&#x2019; families and their desire to seek justice for their relatives.</p>
+<div data-embed-type="Brightcove" data-embed-id="5137935659001">
+<table class="in-article-item video" border="0">
+<tbody>
+<tr>
+<td>
+		
+
+					<div style="display:block;position:relative;min-width:0px;max-width:100%">
+				<div style="padding-top:56%">
+					<video data-video-id="5137935659001" data-account="665003303001" data-player="6tKQRAx7lu" data-usage="cms:wordpress:5.5.1:2.0:javascript" data-embed="default" class="video-js" controls style="width:100%;height:100%;position:absolute;top:0;bottom:0;right:0;left:0">
+					</video>
+
+					<script src="https://players.brightcove.net/665003303001/6tKQRAx7lu_default/index.min.js"></script>
+				</div>
+			</div>
+
+		
+		
+
+		
+</td>
+</tr>
+<tr>
+<td>
+<div class="meta">President Obama to override 9/11 legislation</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p></p>
+<div data-embed-type="Brightcove" data-embed-id="4271961243001">The president said, however, that the bill would be &#x201C;detrimental to US national interests&#x201D; and could lead to lawsuits against the US or American officials for actions taken by groups armed, trained or supported by the US.</div>
+<p>&#x201C;If any of these litigants were to win judgements &#x2013; based on foreign domestic laws as applied by foreign courts &#x2013; they would begin to look to the assets of the US government held abroad to satisfy those judgments, with potentially serious financial consequences for the United States,&#x201D; Obama said.</p>
+<p>Saudi Arabia denies involvement in the attacks on the World Trade Center and the Pentagon 15 years ago and has strongly objected to the bill.</p>
+<p>The Justice Against Sponsors of Terrorism Act (JASTA) cleared Congress earlier this month just ahead of the 15th anniversary of the attacks. </p>
+<p>Congress could override the veto with two-thirds majorities in both chambers, which is possible due to the measure&#x2019;s broad bipartisan support. The White House has been working to convince politicians not to attempt such a move.</p>
+<p class="ReadMoreContentSeparator"><a href="http://www.aljazeera.com/indepth/opinion/2016/09/911-terror-militarism-war-fear-160911055050615.html" target="_self"> OPINION: 9/11 then and now &#x2013; Terror, militarism, war and fear </a></p>
+<p>New York Senator Chuck Schumer, a Democrat, issued a statement within moments of receiving the veto promising that it would be &#x201C;swiftly and soundly overturned&#x201D;.</p>
+<p>A group of survivors and families also pressed Congress to uphold the legislation, calling Obama&#x2019;s veto explanation &#x201C;unconvincing and unsupportable&#x201D;.</p>
+<p>&#x201C;This is just the latest snub of Saudi Arabia from the US Congress,&#x201D; Al Jazeera&#x2019;s White House correspondent Patty Culhane, reporting from Washington, said ahead of Obama&#x2019;s veto.</p>
+<p>&#x201C;Two months ago, it released the so-called &#x2019;28 pages&#x2019; &#x2013; documents from an investigation that had been classified for a decade. Those papers traced a link between some Saudi diplomats and citizens and the hijackers before the attack. The Saudi government has denied it was involved.&#x201D;</p>
+<p><span>Fifteen of the 19 men who carried out the attacks were Saudi nationals.</span></p>
+<p><span>In a 2003 report, the US government&#x2019;s 9/11 Commission said there was no evidence Saudi Arabia had funded al-Qaeda.</span></p>

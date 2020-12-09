@@ -1,0 +1,46 @@
+<p>The FBI has said it will recommend to the Justice Department that no prosecution is warranted after a year-long investigation into Hillary Clinton&#x2019;s use of a private email server while the US secretary of state.</p>
+<p>Director James Comey said in a press conference on Tuesday that while there was &#x201C;evidence of potential violations&#x201D; regarding the handling of classified information, &#x201C;no reasonable prosecutor&#x201D; would bring a case against Clinton.</p>
+<p>Comey said that the FBI&#x2019;s investigation found there was evidence of extremely careless handling of emails by Clinton, now the presumptive Democratic presidential nominee, and that at least 110 emails contained classified information at the time they were sent.&#xA0;</p>
+<div data-embed-type="Brightcove" data-embed-id="5019114649001">
+<table class="in-article-item video" border="0">
+<tbody>
+<tr>
+<td>
+		
+
+					<div style="display:block;position:relative;min-width:0px;max-width:100%">
+				<div style="padding-top:56%">
+					<video data-video-id="5019114649001" data-account="665003303001" data-player="6tKQRAx7lu" data-usage="cms:wordpress:5.5.1:2.0:javascript" data-embed="default" class="video-js" controls style="width:100%;height:100%;position:absolute;top:0;bottom:0;right:0;left:0">
+					</video>
+
+					<script src="https://players.brightcove.net/665003303001/6tKQRAx7lu_default/index.min.js"></script>
+				</div>
+			</div>
+
+		
+		
+
+		
+</td>
+</tr>
+<tr>
+<td>
+<div class="meta">FBI probes Hillary Clinton over private email use</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p></p>
+<p>&#x201C;From the group of 30,000 emails returned to the State Department in 2014, some 110 emails in 52 email chains have been determined by the owning agency to contain classified information at the time they were sent or received,&#x201D; said Comey.</p>
+<p>&#x201C;Eight of those chains contained information that was top secret at the time they were sent; 36 of those chains contained secret information at the time, and eight contained confidential information at the time.&#x201D;</p>
+<p>Comey said that the FBI had also discovered several thousand work-related emails that were not included among the original group of 30,000 emails returned by Clinton to State in 2014.</p>
+<p>The FBI&#x2019;s recommendation to the Justice Department will have a significant impact on the upcoming US presidential election. &#xA0;</p>
+<p>Attorney General Loretta Lynch said on Friday that she would accept whatever recommendation the FBI put forward.&#xA0;</p>
+<p>The FBI has been investigating whether Clinton broke the law as a result of a personal email server kept in her New York home while she was secretary of state from 2009 to 2013.&#xA0;</p>
+<p class="ReadMoreContentSeparator"><a class="internallink" href="http://www.aljazeera.com/programmes/insidestory/2016/06/hillary-clinton-break-ultimate-glass-ceiling-160608181630309.html" target="_blank"> WATCH: Can Hillary Clinton break the ultimate glass ceiling? </a></p>
+<p>The investigation has dogged Clinton&#x2019;s campaign for the past year. She and her staff have repeatedly fought off accusations that her use of the private server, which is in violation of State Department protocol, indicated that she was untrustworthy.</p>
+<p>Republican frontrunner Donald Trump has said that the FBI investigation should disqualify Clinton from running for president.</p>
+<p>&#x201C;Although [Comey&#x2019;s] recommendation is there should be no criminal charges filed &#x2026; he certainly had some very damning statements about her conduct,&#x201D; Al Jazeera&#x2019;s Kimberly Halkett said in Charlotte, North Carolina, outside a Clinton campaign site.</p>
+<p>&#x201C;It&#x2019;s not a completely triumphant day for Hillary Clinton &#x2026; she&#x2019;s sort of out of the woods in terms of facing criminal action, but in terms of the court of public opinion, [she] still has a lot of work to do to try and earn back the trust of the American voter.&#x201D;</p>
+<p>With the US presidential election less than four months away, Clinton&#x2019;s lead in the polls over Trump in recent weeks has shrunk to the single digits and nearly&#xA0;69 percent of the American electorate believe she is untrustworthy.</p>

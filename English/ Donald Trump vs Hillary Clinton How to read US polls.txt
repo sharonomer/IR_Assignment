@@ -1,0 +1,77 @@
+<p>The American presidential election is the longest, most expensive and arguably most watched election on the entire planet.</p>
+<p>While the complexities of the American electoral system are not necessarily any worse than those of South Africa, or Mexico or the UK, the amount of money spent prognosticating the election can almost overwhelm anyone who is not intimately familiar with the intricacies and nuances of the system.</p>
+<p>Likely the most difficult part of American elections to understand is the flood of polls that come out predicting which candidate is ahead, behind or more likely to win.</p>
+<p>Sometimes it is difficult to determine which are reliable and which are just more pre-election noise.</p>
+<p>As the American election season winds down to the final days and hours here are three simple rules for being a good poll watcher of American elections.</p>
+<h2>It&#x2019;s State Not National Polls that Matter</h2>
+<p>The US presidential election is a two-tiered system; therefore the polls that you pay attention to vary greatly in importance. There are polls for the national popular vote, which is how many Americans vote for a particular major party presidential candidate &#x2013; in this case either Donald Trump, the Republican, or Hillary Clinton, the Democrat.</p>
+<p>Then there is the electoral college, which is essentially a points system whereby the presidential candidates earn a certain amount of points for every state where they win that state&#x2019;s particular popular vote. Electoral college votes are based on the state&#x2019;s population, so for example California has 55 electoral votes while Virginia only has 13.</p>
+<p class="ReadMoreContentSeparator"><a href="http://www.aljazeera.com/news/2016/10/electoral-college-161031190257475.html" target="_self"> EXPLAINED: The electoral college </a></p>
+<p>The winner of the presidential election is not actually who wins the most popular votes; it is the candidate who can earn 270 electoral votes from the states.</p>
+<p>Usually the winner of the popular vote wins the electoral college, but these two numbers aren&#x2019;t necessarily that correlated.</p>
+<div data-embed-type="Brightcove" data-embed-id="5197987063001">
+<table class="in-article-item video" border="0">
+<tbody>
+<tr>
+<td>
+		
+
+					<div style="display:block;position:relative;min-width:0px;max-width:100%">
+				<div style="padding-top:56%">
+					<video data-video-id="5197987063001" data-account="665003303001" data-player="6tKQRAx7lu" data-usage="cms:wordpress:5.5.1:2.0:javascript" data-embed="default" class="video-js" controls style="width:100%;height:100%;position:absolute;top:0;bottom:0;right:0;left:0">
+					</video>
+
+					<script src="https://players.brightcove.net/665003303001/6tKQRAx7lu_default/index.min.js"></script>
+				</div>
+			</div>
+
+		
+		
+
+		
+</td>
+</tr>
+<tr>
+<td>
+<div class="meta">Michael Moore on millennials: Vote your conscience</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>So, how does that change how you look at polling?</p>
+<p>While the national numbers are important to look at, to see if Trump or Clinton is leading, it&#x2019;s almost more important to look up how the polls are doing in so-called competitive &#x201C;battleground&#x201D; states like Florida, Ohio and North Carolina.</p>
+<p>Clinton could win the national popular vote by the slimmest of margins, say 1 percent, but if she wins big states like Ohio, Florida and New York she could get over 300 electoral college votes and still become president.</p>
+<p>Always look at state polls before considering the national numbers.</p>
+<p>Now there is a caution about state polls: they are not always as reliable as national polls.</p>
+<p>National polls taken by major American media outlets like NBC, or CNN or Gallup have been tried and tested over the decades but state polling tends to be done by local universities or small newspapers.</p>
+<p>When looking at a state poll, examine whether or not it&#x2019;s been taken by a university, or a local news station, or a private company that may be funded by either of the two major parties. This will give you a better idea about that poll&#x2019;s reliability.</p>
+<h2>Trends are More Important</h2>
+<p>In the last few days of the campaign it is easy to be overly excited or overly concerned about one poll or another. For example, a Rasmussen poll came out this week showing Trump leading the popular vote by 3 percent, but 5 other polls by major firms showed Clinton with anywhere from a 1 to 5 point lead.</p>
+<p>These differences do not occur because pollsters are frauds trying to tilt the race to one candidate or another, it&#x2019;s because they all use different data <a href="http://live.aljazeera.com/Event/US_Election_2016/384907473" target="_blank">analysis tools.</a></p>
+<div>
+<img class="aligncenter size-fantasia-770 wp-image-760607" src="/wp-content/uploads/2016/11/d3a3c5835ff04244b0d9f181e80529ad_6.jpeg">
+</div>
+<p>Some pollsters call mostly landlines, some call mobile phones, some polling companies use automated calls and some use live interviewers.</p>
+<p>In other cases some polling companies are better at getting responses out of minorities or young voters, and in the end these differences in polling strategy and collection affect the final polling outcomes.</p>
+<p>Due to this variation in polling it&#x2019;s best to not take any individual poll too seriously and instead look at several polls covering the same state, or the national race and see what the results are.</p>
+<p>Popular American polling sites that aggregate dozens of polls from across the country are <a href="http://fivethirtyeight.com/" target="_blank">FiveThirtyEight</a> and <a href="realclearpolitics.com" target="_blank">RealClearPolitics.</a> These sites allow you to look across several different polling companies, states and often times provide analysis for how to read and weigh their polling as well.</p>
+<h2>Upsets In American Presidential Elections Are Not Common</h2>
+<p>The presidential election may seem exciting with various twists and turns but unlike sports and action films there are very few surprises and upsets.</p>
+<p>In fact even this election year featuring two of the <a href="http://www.aljazeera.com/news/2016/09/poll-voters-digusted-presidential-race-160921124354232.html" target="_blank">least popular candidates</a> in American history, the preferences of the voters have been surprisingly stable.</p>
+<p>The candidate who wins the popular vote usually wins the electoral college.</p>
+<p>There has only been one electoral college popular vote split in the last 120 years of American presidential elections, and that boiled down to a controversial recount of votes in Florida, a state then governed by the brother of eventual winner George W Bush.</p>
+<p class="ReadMoreContentSeparator"><a href="http://interactive.aljazeera.com/aje/2016/us-elections-glossary/" target="_self"> GLOSSARY: US election terminology </a></p>
+<p>The candidate who is leading in the polls heading into Election Day usually wins the election. Even if the numbers appear to be close, &#x201C;uncommitted&#x201D; or undecided voters tend to break for the incumbent party.</p>
+<p>It has become trendy for American political pundits and even some Trump supporters to cite the British &#x201C;Brexit&#x201D; vote as an example of a vote where all of the polls were wrong and a right-wing candidate/idea upset the establishment.</p>
+<p>While on the surface this appears to be correlation to Trump breaking the establishment just like Nigel Farage and Brexit the systems and the elections are vastly different.</p>
+<p>First, Brexit was trending towards passing for the days and weeks heading into the final vote, and when polls are trending in one direction that is a safe bet that they may continue.</p>
+<p>As of right now there is some stability in the national popular vote in America even as the state numbers are more volatile.</p>
+<p>Further, Brexit was a once-in-a-generation vote that pollsters may have been ill-equipped to properly track.</p>
+<p>Presidential elections happen every four years. Pollsters at American news networks and political campaigns spend billions of dollars to make sure there are no surprises.</p>
+<p>Finally, remember the points system. For a candidate to pull off an upset in the American system the national polls and literally dozens upon dozens of state polls would all have to be wrong and likely all wrong in the same direction. That kind of systematic error is highly unlikely.</p>
+<p>The full answer to all polling will be revealed on Tuesday. Either Clinton or Trump will be the next president of the United States.</p>
+<p>Constant obsessing over polls won&#x2019;t make the days go by any faster but they may provide you with some relief, or anxiety depending on which candidate you support.</p>
+<div>
+<figure id="attachment_760521" style="width:770px" class="wp-caption alignnone"><img class="size-large wp-image-760521" src="/wp-content/uploads/2016/11/f8645891f07c467fb1deef1352f07070_6.jpeg">&#xA0;</figure>
+</div>

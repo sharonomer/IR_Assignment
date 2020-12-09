@@ -1,0 +1,50 @@
+<p>The US state department has released over 4,000 more of the emails former Secretary of State Hillary Clinton kept on a private server and revealed that some 150 others have been retroactively classified.</p>
+<p>Reporters and Clinton&#x2019;s rivals for the 2016 Democratic presidential nomination on Monday began scouring 7,000 additional pages of messages from the emails she handed over earlier this year after coming under fire for operating the unofficial server.</p>
+<p>But perhaps the greater danger to Clinton, with no smoking gun emerging immediately as the hunt began, lay in the emails which officials said had now seen their security status upgraded to &#x201C;classified&#x201D; or above, implying they should not have been sent.</p>
+<div data-embed-type="Brightcove" data-embed-id="4169356073001">
+<table class="in-article-item video" border="0">
+<tbody>
+<tr>
+<td>
+		
+
+					<div style="display:block;position:relative;min-width:0px;max-width:100%">
+				<div style="padding-top:56%">
+					<video data-video-id="4169356073001" data-account="665003303001" data-player="6tKQRAx7lu" data-usage="cms:wordpress:5.5.1:2.0:javascript" data-embed="default" class="video-js" controls style="width:100%;height:100%;position:absolute;top:0;bottom:0;right:0;left:0">
+					</video>
+
+					<script src="https://players.brightcove.net/665003303001/6tKQRAx7lu_default/index.min.js"></script>
+				</div>
+			</div>
+
+		
+		
+
+		
+</td>
+</tr>
+<tr>
+<td>
+<div class="meta">Hillary Clinton&#x2019;s bid to become first female US president</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p></p>
+<p>&#x201C;I think it&#x2019;s somewhere around 150,&#x201D; state department spokesman Mark Toner told reporters, adding that the process of re-evaluating the remaining unreleased emails was continuing.</p>
+<p>Last month, officials said that 63 other emails had also been &#x201C;upgraded in some form&#x201D;.</p>
+<p><strong>&#x2018;Potential hack target&#x2019;</strong></p>
+<p>Clinton has been criticised for using a private server rather than an official government domain for all her emails during her time at the state department.</p>
+<p>Critics allege that she used the so-called &#x201C;homebrew server&#x201D; &#x2013; physically located in the bathroom of a private internet provider &#x2013; to avoid political scrutiny of her time as the top US diplomat.</p>
+<p>They also charge that she put national security at risk by taking classified information out of supposedly secure government systems and putting it onto an unauthorised network that could be prey to hackers.</p>
+<p>Clinton, for her part, insists none of the emails on the private server was formally marked &#x201C;classified&#x201D; nor any higher designation such as &#x201C;top secret&#x201D;.</p>
+<p>If the probe reveals that classified or secret information was shared on unsecured networks or with individuals without a security clearance, Clinton or her staff could face legal consequences.</p>
+<p>Toner confirmed that the review, being overseen by the Intelligence Community Inspector General, has so far found no emails directly marked &#x201C;classified.&#x201D;</p>
+<div>
+<img class="aligncenter size-fantasia-770 wp-image-750870" src="/wp-content/uploads/2015/08/face24c59e154577ab3a9ac3fae037c5_6.jpeg">
+</div>
+<p>But while the material reviewed so far was not marked &#x201C;classified&#x201D;, the number of emails containing sensitive information that are now, in hindsight, thought worthy of classification is on the rise.</p>
+<p>Toner added that the latest declassification, added to previous such publications, brought the proportion of emails released or redacted as classified to more than 25 percent.</p>
+<p>&#x201C;The goal is, we do a thorough scrub on whether these need to be redacted before they can be released publicly,&#x201D; he said.</p>
+<p>The emails that were released &#x2013; some of them banal, some cryptic, some heavily redacted and some potentially enlightening &#x2013; did not immediately throw up any proof of wrongdoing as reporters began to scan them.</p>

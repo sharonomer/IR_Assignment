@@ -1,0 +1,70 @@
+<p>In late 2016, officials in the United States intelligence community heard some reports that were concerning, but incomplete.</p>
+<p>Surveillance of Russia&#x2019;s ambassador to the US, Sergey Kislyak, revealed that he had interacted with an unnamed American who may have been undercutting efforts to pressure President Vladimir Putin&#x2019;s government for interfering in the 2016 US presidential election.</p>
+<p>Using a common process known as &#x201C;unmasking&#x201D;, they asked intelligence agencies to reveal the American&#x2019;s name. It turned out to be Michael Flynn, President-elect Donald Trump&#x2019;s choice to be National Security Adviser.</p>
+<p>Intelligence officials shared their concerns with others in the outgoing administration of President Barack Obama, and in a November 10 meeting at the White House, Obama warned his successor against hiring Flynn for the sensitive post at the National Security Agency (NSA). The advice was ignored, and Flynn was sworn in on January 22, 2017.</p>
+<p>Almost immediately, reports surfaced in the US media about Flynn&#x2019;s early communications with Kislyak.</p>
+<p>Two days after he was sworn in, Flynn was interviewed about the Kislyak contacts by agents from the FBI. Flynn denied that the conversations had anything to do with sanctions against Russia. He was lying, he later admitted in court.</p>
+<p>In late January, the acting attorney general at the time, Sally Yates, met Trump White House officials and informed them of the concerns about Flynn. When those White House officials confronted Flynn, he lied again &#x2013; and administration officials up to and including Vice President Mike Pence took him at his word, publicly repeating those lies.</p>
+<p>On February 13, Flynn was fired for his deceit.</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">I had to fire General Flynn because he lied to the Vice President and the FBI. He has pled guilty to those lies. It is a shame because his actions during the transition were lawful. There was nothing to hide!</p>
+<p>&#x2014; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/937007006526959618?ref_src=twsrc%5Etfw">December 2, 2017</a></p></blockquote>
+<p><script src="https://platform.twitter.com/widgets.js"></script></p>
+<h2>Exhibit A</h2>
+<p>Fast forward to May 2020, and the unmasking of Flynn has become Exhibit A in Trump&#x2019;s unsubstantiated claim that he and his aides were the targets of a scandalous Obama administration &#x201C;witch-hunt&#x201D;. Lately, Trump has taken to calling it &#x201C;Obamagate&#x201D;.</p>
+<p>The top Trump intelligence official, Richard Grenell, stepped into the unmasking issue this week by declassifying the names of the Obama administration officials who may have requested the unmasking. Those names, disclosed Wednesday by two Republican senators, include Trump&#x2019;s Democratic presidential rival Joe Biden along with the Director of National Intelligence at the time, James Clapper, and the heads of the CIA and FBI, John Brennan and James Comey, as well as dozens of other officials.</p>
+<h2>Routine procedure</h2>
+<p>There is nothing illegal about unmasking, and the declassified document released by Grenell states that proper procedures were followed. Trump and his surrogates in conservative media circles have insinuated that unmasking is something sinister, but it is actually quite routine.</p>
+<p>According to the Privacy and Civil Liberties Oversight Board, there were 9,217 unmasking requests between September 2015 and August 2016 &#x2013; the latter days of the Obama administration. The number of such requests has risen during the Trump administration. There were 9,529 requests in 2017, 16,721 in 2018 and 10,012 last year.</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">.&#x2066;<a href="https://twitter.com/emptywheel?ref_src=twsrc%5Etfw">@emptywheel</a>&#x2069; has this exactly right.</p>
+<p>There are a few key points related to this &#x201C;unmasking&#x201D; list:</p>
+<p>(1) This almost certainly has little or nothing to do with the Flynn-Kislyak call. <a href="https://t.co/NuIVBNGxJZ">https://t.co/NuIVBNGxJZ</a></p>
+<p>&#x2014; Benjamin Wittes (@benjaminwittes) <a href="https://twitter.com/benjaminwittes/status/1260917161717006338?ref_src=twsrc%5Etfw">May 14, 2020</a></p></blockquote>
+<p><script src="https://platform.twitter.com/widgets.js"></script></p>
+<p>So what does &#x201C;unmasking&#x201D; actually mean?</p>
+<h2>What is &#x2018;unmasking&#x2019;?</h2>
+<p>During routine, legal surveillance of foreign targets &#x2013; wiretaps of telephone conversations, for example &#x2013; the names of Americans occasionally come up in those conversations. Foreigners could be talking about a US citizen or US permanent resident by name, or a foreigner could be speaking directly to an American. When an American&#x2019;s name is swept up in surveillance of foreigners, it is called &#x201C;incidental collection&#x201D;. In these cases, the name of the American is masked before the intelligence is distributed to administration officials to avoid invading that person&#x2019;s privacy.</p>
+<p>Unless there is a clear intelligence value to knowing the American&#x2019;s name, it is not revealed in the reports. The intelligence report would refer to the person only as &#x201C;US Person 1&#x201D; or &#x201C;US Person 2&#x201D;. If US officials with proper clearance to review the report want to know the identity, they can ask the agency that collected the information &#x2013; perhaps the FBI, CIA or NSA &#x2013; to &#x201C;unmask&#x201D; the name.</p>
+<p>Unmasking requests are common, according to Michael Morell, former CIA deputy director and host of the Intelligence Matters podcast.</p>
+<p>They occur &#x201C;literally hundreds of times a year across multiple administrations,&#x201D; Morell told the Associated Press news agency. &#x201C;In general, senior officials make the requests when necessary to understand the underlying intelligence. I myself did it several times a month and NSA adjudicates the request. You can&#x2019;t do your job without it.&#x201D;</p>
+<h2>Are they all granted?</h2>
+<p>Unmasking requests are not automatically granted. The person asking has to have a good reason. Typically, the reason is that not knowing the name makes it impossible to fully understand the intelligence provided.</p>
+<p>The name is released only if the official requesting it has a need to know and the &#x201C;identity is necessary to understand foreign intelligence information or assess its importance&#x201D;, according to the Office of the Director of National Intelligence&#x2019;s latest report, which includes statistics on unmasking. &#x201C;Additional approval by a designated NSA official is also required.&#x201D;</p>
+<p>Former NSA Director Mike Rogers has said that only 20 of his employees could approve an unmasking. The names are shared only with the specific official who asked. They are not released publicly. Leaking a name, or any classified information, is illegal, and explains part of the furor over the early media reports about Flynn&#x2019;s conversations with -. How it was leaked and by whom remains unclear.</p>
+<div data-embed-type="Brightcove" data-embed-id="6155139928001">
+<table class="in-article-item video Fullwidth" border="0">
+<tbody>
+<tr>
+<td>
+		
+
+					<div style="display:block;position:relative;min-width:0px;max-width:100%">
+				<div style="padding-top:56%">
+					<video data-video-id="6155139928001" data-account="665003303001" data-player="6tKQRAx7lu" data-usage="cms:wordpress:5.5.1:2.0:javascript" data-embed="default" class="video-js" controls style="width:100%;height:100%;position:absolute;top:0;bottom:0;right:0;left:0">
+					</video>
+
+					<script src="https://players.brightcove.net/665003303001/6tKQRAx7lu_default/index.min.js"></script>
+				</div>
+			</div>
+
+		
+		
+
+		
+</td>
+</tr>
+<tr>
+<td>
+<div class="meta">US Justice Department drops charges against former Trump adviser (6:20)</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p></p>
+<h2>Illegal?&#xA0;</h2>
+<p>In recent days, Trump and his supporters have made the Flynn unmasking one of their major talking points, and discussions of it have become a fixture on conservative media. They claim it proves that Obama administration unfairly &#x2013; and maybe illegally &#x2013; targeted Flynn and other Trump associates.</p>
+<p>But there&#x2019;s no evidence the unmasking of Flynn was illegal. The memo released by the Republican senators this week notes that it was approved through the NSA&#x2019;s &#x201C;standard process&#x201D;.</p>
+<p>Democrats see the unmasking issue as aimed at energising Trump&#x2019;s base at a time when the president&#x2019;s response to COVID-19 has been called into question and he faces the prospect of running for re-election with the worst economy since the Great Depression of the 1930s.</p>
+<p>The role of Grenell, the acting director of national intelligence and a Trump loyalist, in declassifying the names of Obama officials who had unmasked Flynn, will likely add to criticism that Trump has bent nonpartisan national security agencies to serve him politically. The decision follows the Department of Justice&#x2019;s move to drop charges against Flynn, who had pleaded guilty to lying to the FBI about his contact with the Russian ambassador.</p>

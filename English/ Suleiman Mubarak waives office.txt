@@ -1,0 +1,5 @@
+<p></p>
+<div id="yttopembed" class="yttopembed YTVideoContainer"><iframe width="560" height="315" src="https://www.youtube.com/embed/vDyD2-42G6k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<p></p>
+<p>Hosni Mubarak, the Egyptian president, has resigned from his post, handing over power to the armed forces.</p>
+<p>Omar Suleiman, the vice-president, announced in a televised address that the president was &#x201C;waiving&#x201D; his office, and had handed over authority to the Supreme Council of the Armed Forces.</p>

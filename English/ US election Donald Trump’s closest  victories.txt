@@ -1,0 +1,35 @@
+<p>Donald Trump made history in 2016 by becoming the fifth United States presidential candidate to win the Electoral College but lose the overall popular vote. It worked out that way because opponent Hillary Clinton had some extremely large victories in heavily-populated states like California and New York, and Trump wound up winning four states with margins of victory of 1.2 percentage points or less.</p>
+<p>As Election Day 2020 approaches, many of these states continue to be battlegrounds between Trump and Democrat Joe Biden.</p>
+<p>Below are the states Trump won by a slim margin, beginning with the slimmest:</p>
+<h2>Michigan: 0.23 percent margin of victory &#x2013; 10,704 votes</h2>
+<p>Trump shocked the country when he defeated Clinton by 10,704 votes out of almost 4.8 million cast. Michigan had not voted Republican since 1988, but Trump&#x2019;s ability to win 12 counties that voted for Barack Obama in 2012 helped put him over the top.</p>
+<p>This year, pre-election polling has Biden leading Trump by 6.5 percentage points, according to the RealClearPolitics polling average.</p>
+<p><iframe src="https://flo.uri.sh/visualisation/4065991/embed" frameborder="0" scrolling="no" height="575" width="700" style="width:100%;max-width:770px"></iframe></p>
+<h2>Pennsylvania: 0.72 percent margin of victory &#x2013; 44,292 votes</h2>
+<p>Another state that hadn&#x2019;t voted Republican since 1988, Trump eked out a 44,292 vote victory out of around 6.17 million votes cast. Trump was able to flip three key counties &#x2013; Erie, Luzerne, and Westmoreland &#x2013; which Obama won in 2012. In Luzerne County, near working-class Scranton in northeastern Pennsylvania, there was a 17.6 percentage point swing from Obama to Trump, exemplifying the type of voters that propelled Trump to victory in the state.</p>
+<p>Pennsylvania is considered to be one of the keys to victory for Trump and Biden as evidenced by the fact that both candidates are spending time in the state on the day before the election.</p>
+<p>Pre-election polling has Biden with a 3.6 percentage point lead, according to RealClearPolitics.</p>
+<h2>Wisconsin: 0.77 percent margin of victory &#x2013; 22,748 votes</h2>
+<p>Wisconsin was considered such a lock for Clinton in 2016 that she didn&#x2019;t step foot in the state once during the general election campaign. Trump wound up becoming the first Republican to win the state since 1984 by defeating Clinton by 22,748 votes out of just under three million votes cast.</p>
+<p>Of note were 23 Wisconsin counties that voted for Obama in 2012 and flipped to Trump in 2016, surprising not only Clinton and her advisers but political observers across the country.</p>
+<p>This year, Biden and his team are not ignoring the state, even as the RealClearPolitics pre-election polling average shows him with a 6.4-percentage-point lead over Trump.</p>
+		
+
+					<div style="display:block;position:relative;min-width:0px;max-width:770px">
+				<div style="padding-top:56%">
+					<video data-video-id="6197295272001" data-account="665003303001" data-player="6tKQRAx7lu" data-usage="cms:wordpress:5.5.1:2.0:javascript" data-embed="default" class="video-js" controls style="width:100%;height:100%;position:absolute;top:0;bottom:0;right:0;left:0">
+					</video>
+
+					<script src="https://players.brightcove.net/665003303001/6tKQRAx7lu_default/index.min.js"></script>
+				</div>
+			</div>
+
+		
+		
+
+		
+<h2>Florida: 1.20 percent margin of victory &#x2013; 112,911 votes</h2>
+<p>Florida is the quintessential swing state, having voted Democrat three times and Republican three times since 1996, with some of those extremely tight contests including Obama&#x2019;s 2012 0.88-percent margin of victory over Republican Mitt Romney, about 73,189 votes, and George W Bush&#x2019;s infamous 537-vote victory over Al Gore in 2000.</p>
+<p>Trump wasn&#x2019;t as close as either of those, but he still wound up only squeaking past Clinton there in 2016 by 112,911 votes out of 9.4 million cast, a 1.20 percent margin of victory.</p>
+<p>2020 promises more of the same as Biden leads Trump by 1.2 percent there, according to the RealClearPolitics polling average.</p>
+<p><iframe src="https://flo.uri.sh/visualisation/3725599/embed" frameborder="0" scrolling="no" height="575" width="700" style="width:100%;max-width:770px"></iframe></p>

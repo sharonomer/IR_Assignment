@@ -1,0 +1,41 @@
+<p class="p1">Five years after Egyptian protests led to the demise of Hosni Mubarak&#x2019;s authoritarian regime, analysts continue to debate the effect of social media and the government&#x2019;s move at the time to cut off access to the internet. &#xA0;</p>
+<p class="p1">Facebook and Twitter &#x2013; the protesters&#x2019; most powerful weapons that helped them to spread messages and set up demonstrations &#x2013; were suddenly severed in January 2011.&#xA0;</p>
+<p class="p1">Hackers immediately focused on getting around the block. They began using proxy computers to beat government censors. They set out to &#x201C;anonymise&#x201D; online data and focused on getting information to the internet by bouncing content to computers in other countries.&#xA0;</p>
+<p class="p1"><span class="s1">It was the activist group &#x201C;We Rebuild&#x201D; that provided one of the most ingenious solutions. With dial-up modems, they managed to connect to the internet in Sweden. Out of the reach of Egyptian authorities, this allowed them to set up an&#xA0;<span class="s2"><a href="http://www.ibtimes.com/egypt-online-without-internet-service-cell-phones-or-social-networking-261185" target="_blank">Egypt Wiki page</a>&#xA0;&#x2013;&#xA0;</span>a &#x201C;how-to&#x201D; list for activists to get online and stay connected.</span></p>
+<p><span>Protesters also resorted to handheld signs during the demonstrations. If you could not look down at your phone for updates, you could look up and find signs that explained where and when to gather next.</span></p>
+<p><span>But some observers say the role played by social media has been overblown.&#xA0;</span></p>
+<p class="p1"><span class="s1">&#x201C;Social media has certainly played a part in the Arab Spring revolutions but its effect is often exaggerated on the inside,&#x201D; said&#xA0;<a href="http://twitter.com/sultanalqassemi" target="_blank"><span class="s2">Sultan al-Qassemi</span></a>, a columnist based in the United Arab Emirates. </span></p>
+<p class="p1"><span class="s1">Qassemi used Twitter to&#xA0;<a href="http://www.theguardian.com/world/2011/feb/25/twitter-facebook-uprisings-arab-libya" target="_blank"><span class="s2">translate speeches from Arabic into English</span></a>&#xA0;and provided nearly non-stop updates on the protests sweeping the region. &#x201C;Egypt was disconnected from the outside world for days and yet the movement never stopped,&#x201D; he said.</span></p>
+<p class="p1">While there are conflicting views on the importance of social media during the protests in Egypt, a study showed a major rise in <a href="http://www.washington.edu/news/2011/09/12/new-study-quantifies-use-of-social-media-in-arab-spring/" target="_blank"><span class="s2">online engagement</span></a> about Egypt during the uprising.</p>
+<p class="p1">The week before Hosni Mubarak&#x2019;s resignation, the total rate of tweets about Egypt surged from 2,300 a day to 230,000 around the world.&#xA0;</p>
+<p class="p1"><span class="s1">One unintended consequence of cutting internet access was it may have pushed more people on to the streets, said one analyst.&#xA0;</span></p>
+<p class="p1"><span class="s1">&#x201C;The government made a big mistake taking away the option at people&#x2019;s fingertips,&#x201D; said Professor Mohammed el-Nawawy, from Queens University of Charlotte, North Carolina.</span></p>
+<div data-embed-type="Brightcove" data-embed-id="4717579143001">
+<table class="in-article-item video Fullwidth" border="0">
+<tbody>
+<tr>
+<td>
+		
+
+					<div style="display:block;position:relative;min-width:0px;max-width:100%">
+				<div style="padding-top:56%">
+					<video data-video-id="4717579143001" data-account="665003303001" data-player="6tKQRAx7lu" data-usage="cms:wordpress:5.5.1:2.0:javascript" data-embed="default" class="video-js" controls style="width:100%;height:100%;position:absolute;top:0;bottom:0;right:0;left:0">
+					</video>
+
+					<script src="https://players.brightcove.net/665003303001/6tKQRAx7lu_default/index.min.js"></script>
+				</div>
+			</div>
+
+		
+		
+
+		
+</td>
+</tr>
+<tr>
+<td>&#xA0;<strong>UpFront &#x2013; Arena: Is Egypt better off under Sisi?</strong></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p class="p1"><span class="s1"></span></p>

@@ -1,0 +1,47 @@
+<p>Twitter Inc said on Tuesday that it had reined in access to<span class="highlight" data-qa-component="highlight-text">&#xA0;Donald&#xA0;</span><span class="highlight" data-qa-component="highlight-text">Trump&#xA0;</span><span class="highlight" data-qa-component="highlight-text">Jr&#x2019; </span> s account for 12 hours because a tweet he had posted violated the social media site&#x2019;s misinformation policy on COVID-19.</p>
+<p>The eldest son of United States President<span class="highlight" data-qa-component="highlight-text">&#xA0;Donald&#xA0;</span><span class="highlight" data-qa-component="highlight-text">Trump&#xA0;</span>had posted a video on Monday of doctors talking about the drug <a href="/news/2020/05/hydroxychloroquine-tied-increased-risk-death-study-200522143909314.html">hydroxychloroquine</a>, that was removed by Twitter.</p>
+<p>The video was also taken down by Facebook Inc and Alphabet Inc-owned YouTube after racking up millions of views, for breaking their rules on COVID-19 misinformation.</p>
+<p>President<span class="highlight" data-qa-component="highlight-text">&#xA0;Trump&#xA0;</span>also retweeted a post late on Monday containing a link to the video and <a href="/news/2020/07/coronavirus-trump-pushes-anti-malaria-drug-fauci-checks-200728130002239.html">accusing Dr Anthony Fauci</a>, the nation&#x2019;s top infectious disease expert, and Democrats of suppressing the use of the drug hydroxychloroquine to treat the novel coronavirus.</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">Twitter has just confirmed that Don Jr. has been suspended (or &quot;temporarily locked out&quot; in Twitter&apos;s description) for spreading coronavirus misinformation</p>
+<p>He won&apos;t be able to tweet, Like or retweet for 12 hours.<a href="https://t.co/vCCFmBsfTx">https://t.co/vCCFmBsfTx</a></p>
+<p>&#x2014; David Gilbert (@daithaigilbert) <a href="https://twitter.com/daithaigilbert/status/1288110205306191872?ref_src=twsrc%5Etfw">July 28, 2020</a></p></blockquote>
+<p><script src="https://platform.twitter.com/widgets.js"></script></p>
+<p>The tweets shared by<span class="highlight" data-qa-component="highlight-text">&#xA0;Trump&#xA0;</span>were deleted as part of Twitter&#x2019;s enforcement actions.</p>
+<p>Fauci, who directs the National Institute of Allergy and Infectious Diseases and has worked under six US presidents, said on Tuesday that he has &#x201C;not been misleading the American public under any circumstances&#x201D;.</p>
+<p>The US Food and Drug Administration last month <a href="/news/2020/05/trump-hydroxychloroquine-fda-warning-200518214533760.html">revoked its emergency-use authorisation</a> for hydroxychloroquine to treat COVID-19, the illness caused by the novel coronavirus, after several studies cast doubt on its effectiveness.<span class="highlight" data-qa-component="highlight-text">&#xA0;Trump&#xA0;</span>has regularly touted the drug and said he has used it himself.</p>
+<p>In the video, the doctors also discounted the need for face masks amid the pandemic.</p>
+<p>The White House did not immediately respond to a Reuters request for comment.</p>
+<div data-embed-type="Brightcove" data-embed-id="6175030227001">
+<table class="in-article-item video Fullwidth" border="0">
+<tbody>
+<tr>
+<td>
+		
+
+					<div style="display:block;position:relative;min-width:0px;max-width:100%">
+				<div style="padding-top:56%">
+					<video data-video-id="6175030227001" data-account="665003303001" data-player="6tKQRAx7lu" data-usage="cms:wordpress:5.5.1:2.0:javascript" data-embed="default" class="video-js" controls style="width:100%;height:100%;position:absolute;top:0;bottom:0;right:0;left:0">
+					</video>
+
+					<script src="https://players.brightcove.net/665003303001/6tKQRAx7lu_default/index.min.js"></script>
+				</div>
+			</div>
+
+		
+		
+
+		
+</td>
+</tr>
+<tr>
+<td>
+<div class="meta"><a href="https://youtu.be/rPjK2ELrKdA" target="_blank">US coronavirus: Florida isolation centres used to shield elderly (2:47)</a></div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p></p>
+<p>&#x201C;It is beyond the pale for Twitter to silence someone for sharing the views of medical professionals who happen to dissent with their anti-hydroxychloroquine narrative,&#x201D; said Andy Surabian, a spokesman for the president&#x2019;s son, after sharing a screenshot that said Twitter had temporarily limited @<span class="highlight" data-qa-component="highlight-text">Donald</span>J<span class="highlight" data-qa-component="highlight-text">Trump</span> <span class="highlight" data-qa-component="highlight-text"> Jr&#x2019; </span> s ability to tweet, retweet or like content.</p>
+<p>&#x201C;We did not suspend the account. The screenshot shared directly says that Twitter required the tweet to be deleted because it violated our rules, and that we would limit some account functionality for 12 hours,&#x201D; a Twitter spokesman told Reuters.</p>
