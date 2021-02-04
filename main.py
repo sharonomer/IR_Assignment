@@ -46,30 +46,25 @@ def all_terms(t):
             and i != 'll']
 
 
-def sentence_alias(sentence, arr):
-    index = arr.indexOf(sentence)
-    return "S" + str(index)
-
-
-termsDict, sentencesDict, s_lib, doc_lib = {}, {}, {}, {}
-# for file in [files[0], files[1]]:
-for file in files:
+pList, allSentences, dCounter = {}, {}, 0
+for file in [files[0], files[1]]:
+# for file in files:
+    dCounter += 1
     f = open(file)
     text = f.read()
     f.close()
     text = parse_HTML(text)
     sentences = sent_tokenize(text)
 
+    sCounter = 0
     for sentence in sentences:  # Storing sentences in relation to documents
-        if sentence not in sentencesDict:
-            sentencesDict[sentence] = [f.name]
-        elif f.name not in sentencesDict.get(sentence):
-            sentencesDict.get(sentence).append(f.name)
-        for term in all_terms(sentence):  # Storing terms in relation to sentences
-            if term not in termsDict:
-                termsDict[term] = [sentence]
-            elif sentence not in termsDict.get(term):
-                termsDict.get(term).append(sentence)
+        sCounter += 1
+        allSentences["D{}S{}".format(dCounter, sCounter)] = sentence
+        for term in all_terms(sentence):  # Creating postings list
+            if term not in pList:
+                pList[term] = ["D{}S{}".format(dCounter, sCounter)]
+            else:
+                pList.get(term).append("D{}S{}".format(dCounter, sCounter))
 
 print("Total runtime:\t"+str(datetime.now() - startTime))
-print("testing")
+print(pList)
